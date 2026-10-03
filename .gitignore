@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+data/
+logs/
+*.h5ad
+*.h5
+*.loom
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
