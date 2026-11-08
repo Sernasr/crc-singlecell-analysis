@@ -1,0 +1,3 @@
+Dataset,Scope,Cells,Patients,MSI-H,MSS,CD4/CD8 cells
+Zhang 2018,T-cell focused,11138,12,4,8,8530
+Zhang 2020 (Smart-seq2),Immune + non-immune cells,10468,10,2,8,5548
